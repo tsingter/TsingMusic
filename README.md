@@ -26,14 +26,19 @@
 
 ---
 
+
 ## 🎬 产品演示视频
 
 <div align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/db9f7b48-69d2-4fb2-9e28-2b4f58c82b1d" 
-    controls="controls" 
-    style="width: 80%; max-width: 800px; border-radius: 8px;"/>
-  <p style="color: #666; font-size: 14px; margin-top: 8px;">播放文件</p>
+<video 
+  width="480" 
+  muted 
+  autoplay 
+  loop
+  style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);"
+>
+  <source src="https://github.com/user-attachments/assets/db9f7b48-69d2-4fb2-9e28-2b4f58c82b1d" type="video/mp4">
+</video>
 </div>
 
 ## 🛠 v0.18.0：从“工具”到“生态”的跨代进化
