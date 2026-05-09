@@ -26,6 +26,14 @@
 
 ---
 
+## 🎬 产品演示视频
+
+<video controls width="480">
+  <source src="https://github.com/tsingter/TsingMusic/blob/main/assets/images/demo.mp4?raw=true" type="video/mp4">
+  你的浏览器不支持视频播放，请直接下载观看：[demo.mp4](https://github.com/tsingter/TsingMusic/blob/main/assets/images/demo.mp4?raw=true)
+</video>
+
+
 ## 🛠 v0.18.0：从“工具”到“生态”的跨代进化
 
 > **本版本底层逻辑：身份锚定 · 价值共创 · 体验对齐**
