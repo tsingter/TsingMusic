@@ -64,4 +64,4 @@
 
 **听着 / TsingMusic —— 跨越数字尘埃，与好音乐不期而遇。**
 
-[⭐ Star on GitHub]() | [🐞 提交建议]()
+[⭐ Star on GitHub](https://github.com/tsingter/TsingMusic) | [🐞 提交建议](https://github.com/tsingter/TsingMusic/issues)
