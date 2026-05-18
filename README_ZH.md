@@ -73,3 +73,7 @@
 **听着 / TsingMusic —— 跨越数字尘埃，与好音乐不期而遇。**
 
 [⭐ Star on GitHub](https://github.com/tsingter/TsingMusic) | [🐞 提交建议](https://github.com/tsingter/TsingMusic/issues)
+
+---
+<meta name="google-site-verification" content="xxx-xxxx-xxxx" />
+---
