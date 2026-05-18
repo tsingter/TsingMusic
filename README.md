@@ -98,4 +98,7 @@ If you’re tired of endless generic playlists and want to rediscover the origin
 **TsingMusic / 听着 — Somewhere beyond the noise of the digital world, great music is waiting again.**
 
 [⭐ Star on GitHub](https://github.com/tsingter/TsingMusic) | [🐞 Submit Feedback](https://github.com/tsingter/TsingMusic/issues)
+---
+<meta name="google-site-verification" content="xxx-xxxx-xxxx" />
+---
 
